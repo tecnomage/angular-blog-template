@@ -5,6 +5,7 @@
 */
 
 (function($) {
+	console.log('carregou')
 
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
@@ -126,7 +127,7 @@
 				.append('<a href="#menu" class="close"></a>')
 				.appendTo($body)
 				.panel({
-					delay: 500,
+					delay: 5500,
 					hideOnClick: true,
 					hideOnSwipe: true,
 					resetScroll: true,
