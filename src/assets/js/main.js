@@ -135,6 +135,10 @@
 					side: 'right'
 				});
 
+				$('#slider').slideReveal({
+					trigger: $("#trigger")
+				  });
+
 	});
 
 })(jQuery);

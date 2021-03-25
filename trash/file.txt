@@ -1,0 +1,16 @@
+ {"input" :"src/assets/js/teste.js",
+               "inject": true
+              }
+
+
+              //main.css
+         
+              	#header .toggle span {
+			display: none;
+		}
+
+no app.component.html
+        <header id="header" class="alt">
+				<div class="logo"><a href="app.component.html">Transitive <span>by TEMPLATED</span></a></div>
+				<a href="#menu" class="toggle"><span>Menu</span></a>
+			</header> 

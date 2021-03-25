@@ -3425,9 +3425,9 @@
 		z-index: 10001;
 	}
 
-		#header .toggle span {
-			display: none;
-		}
+	#header .toggle span {
+		display: none;
+	}
 
 		#header > .logo {
 			display: inline-block;
@@ -3464,7 +3464,7 @@
 			color: #FFF;
 		}
 
-			#header > a[href="#menu"] {
+			 #header > a[href="#menu"] {
 				text-decoration: none;
 				-webkit-tap-highlight-color: transparent;
 			}
